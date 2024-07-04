@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 '''task 7's module.
 '''
 from typing import Union, Tuple

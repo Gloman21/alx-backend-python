@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 '''task 9's module.
 '''
 from typing import Iterable, List, Sequence, Tuple
